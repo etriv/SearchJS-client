@@ -1,0 +1,31 @@
+.search-page {
+    .search-box {
+        display: block;
+        margin: 1rem auto;
+    }
+
+    .btn {
+        display: block;
+        margin: 1rem auto;
+    }
+
+    .cards-container {
+        .card-container {
+            border: 1px dotted gray;
+            margin: 1rem auto;
+            padding: 1rem;
+            max-width: 600px;
+            min-width: 300px;
+
+            .twitter-user {
+                font-size: 1.1rem;
+                font-weight: bold;
+                margin-bottom: 0.5rem;
+            }
+
+            .tweet-text {
+                text-align: left;
+            }
+        }
+    }
+}
