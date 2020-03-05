@@ -1,8 +1,8 @@
-# Twitter API and ElasticSearch Example
+# Twitter API and ElasticSearch Example (The client side)
 Example of usage of Twitter API and ElasticSearch.
 Back-end: Node.js. Front-end: React.
 
-Link to the front-end (client) project: https://github.com/etriv/SearchJS-client
+Link to the back-end (server) project: https://github.com/etriv/SearchJS-server
 
 ## How to start the project
 - Install PostgreSQL and ElasticSearch
